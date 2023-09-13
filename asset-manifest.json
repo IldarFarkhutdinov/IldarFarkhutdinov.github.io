@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c604b8f.css",
-    "main.js": "/static/js/main.6a2f6ba2.js",
+    "main.css": "/static/css/main.cd109fe2.css",
+    "main.js": "/static/js/main.b6b97b8a.js",
     "static/media/BG-IMAGE.png": "/static/media/BG-IMAGE.dad4d15928083dcf60cd.png",
     "static/media/c2img.png": "/static/media/c2img.0f9bb3c86c36cc306e9d.png",
     "static/media/c7img.png": "/static/media/c7img.0774d9bbfd889322a7f0.png",
@@ -42,13 +42,13 @@
     "static/media/График_Проект_6_выбор_локации_скважины.png": "/static/media/График_Проект_6_выбор_локации_скважины.8c0160480b8eae544cbd.png",
     "static/media/RecoveryGoldGraph.png": "/static/media/RecoveryGoldGraph.8b4c1836830ff7dab2a7.png",
     "static/media/LocationForSplitGraph.png": "/static/media/LocationForSplitGraph.32162724a86c44d1d2c3.png",
-    "static/media/Vector.svg": "/static/media/Vector.68bb1a1c0d47986c1b624c33d380b209.svg",
+    "static/media/Vector.svg": "/static/media/Vector.8ecebe8373c0c57dd28d5924ff867e56.svg",
     "index.html": "/index.html",
-    "main.3c604b8f.css.map": "/static/css/main.3c604b8f.css.map",
-    "main.6a2f6ba2.js.map": "/static/js/main.6a2f6ba2.js.map"
+    "main.cd109fe2.css.map": "/static/css/main.cd109fe2.css.map",
+    "main.b6b97b8a.js.map": "/static/js/main.b6b97b8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c604b8f.css",
-    "static/js/main.6a2f6ba2.js"
+    "static/css/main.cd109fe2.css",
+    "static/js/main.b6b97b8a.js"
   ]
 }
